@@ -1,6 +1,6 @@
-### Hey 👋
+### Some say knowledge is power, I say it's the keys to freedom
 - I'm currently working in: Cyber Security 
-- I was born in t to t parents  
+- 🇺🇸 I was born in 🗽 from 🇭🇹 parents  
 - 🌱 I’m currently learning ... Python 
 - 👯 I’m looking to collaborate on ... Any dev projects 
 - 📫 How to reach me: [@techgameteddy](https://twitter.com/techgameteddy) 
