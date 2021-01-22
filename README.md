@@ -3,7 +3,7 @@
 - 📫 How to reach me: .[@techgameteddy](https://twitter.com/techgameteddy) 
 - My Resume or References can be found on: [Linkedin](https://linkedin.com/in/tmeralus)
 - 💬 Ask me about ... [1019 Studios]()
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tmeralus&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e727271,77954e" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tmeralus&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,727271,77954e" />
 <!--
 **tmeralus/tmeralus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
