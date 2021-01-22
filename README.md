@@ -23,7 +23,7 @@
    <a href="https://mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
     </p>
     
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmeralus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmeralus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,00209F,ffffff,D21034&theme=graywhite" /></a>
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tmeralus&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=40,D21034,00209F" />
  
 
@@ -40,10 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: .[@techgameteddy](https://twitter.com/techgameteddy)..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
-   <a href="https://gimp.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> </a>
 -->
