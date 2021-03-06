@@ -25,11 +25,12 @@
    <a href="https://mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
     </p>
     
+ <!--   
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmeralus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,00209F,ffffff,D21034&theme=graywhite" /></a>
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tmeralus&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=40,D21034,00209F" />
  
 
-<!--
+
 **tmeralus/tmeralus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
