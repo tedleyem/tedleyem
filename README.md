@@ -1,10 +1,5 @@
 ### Some say knowledge is power, I say it's the keys to freedom
-- I'm currently working in: Cyber Security 
-- 🌱 I’m currently learning ... Python 
-- 👯 I’m looking to collaborate on ... Any dev projects 
-- 📫 How to reach me: [@techgameteddy](https://twitter.com/techgameteddy) 
-- My Resume is found on: [Linkedin](https://linkedin.com/in/tmeralus)
-- 💬 Ask me about ... [Linux]()
+- 📫 How to reach me: [@techgameteddy](https://twitter.com/techgameteddy)  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
