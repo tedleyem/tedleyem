@@ -1,14 +1,12 @@
 ### Some say knowledge is power, I say it's the keys to freedom
-- 📫 How to reach me: [@techgameteddy](https://twitter.com/techgameteddy)  
-
-[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![Header]()](https://www.meralus.com)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-![Bash](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)
-![Postgres] 
-![Flask]
+![Bash]()
+![Postgres]() 
+![Flask]()
  
 ### Technologies
 
@@ -22,10 +20,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React) 
-![Redis]
-![Red Hat] 
+![Redis]()
+![Red Hat]() 
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
-ubuntu 
+![ubuntu]() 
       
     
  <!--   
