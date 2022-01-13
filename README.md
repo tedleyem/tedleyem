@@ -1,21 +1,32 @@
 ### Some say knowledge is power, I say it's the keys to freedom
 - 📫 How to reach me: [@techgameteddy](https://twitter.com/techgameteddy)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-      <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> </a>
-      <a href="https://flask.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>       
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a> 
-  <a href="https://docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>  
-  <a href="https://jenkins.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://ansible.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </a>
-   <a href="https://ansible.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-   <a href="https://ubuntu.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> </a>
-   <a href="https://redhat.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/> </a>
-   <a href="https://redis.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/> </a>
-   <a href="https://linux.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-   <a href="https://mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
-    </p>
+[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![Bash](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)
+![Postgres] 
+![Flask]
+ 
+### Technologies
+
+![Ansible](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jenkins](https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React) 
+![Redis]
+![Red Hat] 
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+ubuntu 
+      
     
  <!--   
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmeralus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,00209F,ffffff,D21034&theme=graywhite" /></a>
