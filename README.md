@@ -1,5 +1,8 @@
-### Some say knowledge is power, I say it's the keys to freedom
-[![Header]()](https://www.meralus.com)<!-- If you want the template for my gif, email me! -->
+
+<!--[![Header](https://github.com/tmeralus/tmeralus/blob/main/tedley-cartoon-animation-banner.gif)](https://www.meralus.com)
+-->
+# Tedley Meralus 
+### Knowledge is Freedom, Ignorance is Slavery 
 
 ### Languages
 
@@ -40,4 +43,7 @@
 <!-- 
 Find more Logos here 
 https://github.com/Ileriayo/markdown-badges
+
+Create and edit GIF's
+https://ezgif.com
 -->
