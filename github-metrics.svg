@@ -228,7 +228,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    689 views in last two weeks
+                                    687 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -460,6 +460,11 @@
                             techgameteddy
                         </div>
                         <div class="tweet">
+                            <span class="mention">@PuchoDR_</span>
+                            Same here! An approved PR from any maintainer would make me feel like I'm contributing to the entire world lol.
+                            <div class="date">12:01:29 on 24 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@uid_max</span>
                             Your question makes more sense now. Looks like I'm doing the kernel development for play.....kubernetes for play as well but plan on introducing and migrating kubernetes into my work environment.
                             <div class="date">10:38:06 on 24 May 2022</div>
@@ -468,12 +473,6 @@
                             <span class="mention">@uid_max</span>
                             Is that not one and the same?
                             <div class="date">10:04:19 on 24 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@Jamalhinton12</span>
-                            : I’m very proud to announce the opening of my new car wrapping, painting and tinting company Wrap-A-Lot in which I am CEO…
-                            <div class="date">09:46:03 on 24 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1616,7 +1615,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 May 2022, 11:06:42 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 24 May 2022, 12:07:45 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
