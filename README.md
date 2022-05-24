@@ -5,7 +5,7 @@
 ### Knowledge is Freedom, Ignorance is Slavery 
 
 
-![Metrics](https://github.com/indrabasak/indrabasak/blob/main/github-metrics.svg)
+![Metrics](https://github.com/tmeralus/tmeralus/blob/main/github-metrics.svg)
 
 ### Languages
 
