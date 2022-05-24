@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1737" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1753" class="">
     <defs>
         <style/>
     </defs>
@@ -461,6 +461,11 @@
                         </div>
                         <div class="tweet">
                             <span class="mention">@PuchoDR_</span>
+                            I'm going to keep messing around with this WordPress site in a Kubernetes cluster and see that works out
+                            <div class="date">12:18:09 on 24 May 2022</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@PuchoDR_</span>
                             Same here! An approved PR from any maintainer would make me feel like I'm contributing to the entire world lol.
                             <div class="date">12:01:29 on 24 May 2022</div>
                         </div>
@@ -468,11 +473,6 @@
                             <span class="mention">@uid_max</span>
                             Your question makes more sense now. Looks like I'm doing the kernel development for play.....kubernetes for play as well but plan on introducing and migrating kubernetes into my work environment.
                             <div class="date">10:38:06 on 24 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@uid_max</span>
-                            Is that not one and the same?
-                            <div class="date">10:04:19 on 24 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1615,7 +1615,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 May 2022, 12:07:45 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 24 May 2022, 13:10:30 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
