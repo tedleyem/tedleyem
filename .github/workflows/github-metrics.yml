@@ -65,3 +65,4 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_limit: 3
           plugin_tweets_user: techgameteddy
+          plugin_tweets_token: ${{ secrets.TWITTER_API_TOKEN }}
