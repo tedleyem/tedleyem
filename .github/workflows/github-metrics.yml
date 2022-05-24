@@ -61,6 +61,6 @@ jobs:
 
           # The rss plugin displays feed from my blog
           plugin_rss: yes
-          plugin_rss_source: https://meralus.com
+          plugin_rss_source: https://meralus.com/feed.xml
           plugin_rss_limit: 6
           
