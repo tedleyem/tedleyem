@@ -51,12 +51,12 @@ jobs:
           plugin_stargazers: yes
 
           # Recently starred repositories
-          #plugin_stars: yes
-          #plugin_stars_limit: 5
+          plugin_stars: yes
+          plugin_stars_limit: 5
 
           # The rss plugin displays feed from my blog
           plugin_rss: yes
-          plugin_rss_source: https://meralus.com/feed.xml
+          plugin_rss_source: https://meralus.com
           plugin_rss_limit: 6
           
           plugin_tweets: yes
