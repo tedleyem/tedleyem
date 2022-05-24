@@ -4,6 +4,9 @@
 # Tedley Meralus 
 ### Knowledge is Freedom, Ignorance is Slavery 
 
+
+![Metrics](https://github.com/indrabasak/indrabasak/blob/main/github-metrics.svg)
+
 ### Languages
 
 ![BASH](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
