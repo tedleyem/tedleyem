@@ -49,7 +49,10 @@ jobs:
           plugin_traffic: yes
           # The stargazers plugin displays your stargazers evolution across all of your repositories over the last two weeks.
           plugin_stargazers: yes
-
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           # Recently starred repositories
           plugin_stars: yes
           plugin_stars_limit: 5
