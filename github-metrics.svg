@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1584" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1600" class="">
     <defs>
         <style/>
     </defs>
@@ -460,6 +460,11 @@
                             techgameteddy
                         </div>
                         <div class="tweet">
+                            Under no circumstances is there a justified reason to spend $400 on shoes but I keep looking back at these...
+                            <a href="https://t.co/e6JzTH5aLZ" class="link">pic.twitter.com/e6JzTH5aLZ</a>
+                            <div class="date">17:22:17 on 31 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@BrilliantIdiots</span>
                             Do you think Thanksgiving should have his own seasonal music? If yes, who do you think can pull it off??
                             <div class="date">11:38:16 on 31 May 2022</div>
@@ -468,13 +473,6 @@
                             <span class="mention">@Nftkid23</span>
                             A Linux distribution
                             <div class="date">09:28:47 on 31 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@SeinfeldTV</span>
-                            : Now that's an awkward yada.
-                            <a href="https://t.co/6tnk9w0aAO" class="link">pic.twitter.com/6tnk9w0aAO</a>
-                            <div class="date">23:12:35 on 30 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1609,7 +1607,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 May 2022, 17:06:37 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 31 May 2022, 18:06:28 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
