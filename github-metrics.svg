@@ -460,6 +460,11 @@
                             techgameteddy
                         </div>
                         <div class="tweet">
+                            <span class="mention">@BrilliantIdiots</span>
+                            Do you think Thanksgiving should have his own seasonal music? If yes, who do you think can pull it off??
+                            <div class="date">11:38:16 on 31 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@Nftkid23</span>
                             A Linux distribution
                             <div class="date">09:28:47 on 31 May 2022</div>
@@ -470,13 +475,6 @@
                             : Now that's an awkward yada.
                             <a href="https://t.co/6tnk9w0aAO" class="link">pic.twitter.com/6tnk9w0aAO</a>
                             <div class="date">23:12:35 on 30 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@luhwaIk</span>
-                            : gang told me he went on his 30 minute break and he texted me this
-                            <a href="https://t.co/MeGvz9sCXb" class="link">pic.twitter.com/MeGvz9sCXb</a>
-                            <div class="date">22:04:43 on 30 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1611,7 +1609,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 May 2022, 11:06:56 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 31 May 2022, 12:06:50 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
