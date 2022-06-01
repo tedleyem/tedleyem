@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1620" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1670" class="">
     <defs>
         <style/>
     </defs>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    572 views in last two weeks
+                                    606 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -454,25 +454,24 @@
                             techgameteddy
                         </div>
                         <div class="tweet">
+                            If anyone knows me they know I love the small form factors. This might be perfect for spinning up xbox game pass or PS now without the need for spinning up Wine or a VM on my desktop.
+                            <br />
+                            <a href="https://t.co/NWaio4RMWa" class="link">windowscentral.com/hardware/lapto…</a>
+                            <div class="date">14:01:59 on 1 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
+                            Any security peeps out there know of a few good places to get security training certificates to validate that hours of security training has been completed. I thought Linux Academy had it but I was wrong
+                            <span class="hashtag">#DevSecOps</span>
+                            <span class="hashtag">#Devops</span>
+                            <span class="hashtag">#BlackTechTwitter</span>
+                            <span class="hashtag">#SecOpsTwitter</span>
+                            <div class="date">13:16:16 on 1 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             I almost thought it was Nipsey on the 1st verse of Half Stepping
                             <span class="hashtag">#SnoopDogg</span>
                             <span class="hashtag">#TMC</span>
                             <div class="date">10:45:57 on 1 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            "Whole key go for 20 half a key gone feed 11" -Lil Wayne
-                            <br />
-                            <span class="hashtag">#diapers</span>
-                            <span class="hashtag">#size1</span>
-                            <span class="hashtag">#bulkdiscount</span>
-                            <a href="https://t.co/0dn86ioPpO" class="link">pic.twitter.com/0dn86ioPpO</a>
-                            <div class="date">10:04:22 on 1 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            I think news about this game and me following news about this game has been longer than my relationship with my wife 🤣
-                            <span class="hashtag">#DiabloInmortal</span>
-                            <a href="https://t.co/rgzU68Ptlh" class="link">pic.twitter.com/rgzU68Ptlh</a>
-                            <div class="date">09:23:04 on 1 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1612,7 +1611,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jun 2022, 13:11:18 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 1 Jun 2022, 14:06:48 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
