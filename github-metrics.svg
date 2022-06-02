@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1604" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1620" class="">
     <defs>
         <style/>
     </defs>
@@ -454,6 +454,13 @@
                             techgameteddy
                         </div>
                         <div class="tweet">
+                            Ran around my house freaking out that there was this smell going through the Entire house. I check the kitchen and realize that, this needs to be done every week 😍
+                            <span class="mention">@PuraVida_1990</span>
+                            I forgot what love smelled like
+                            <a href="https://t.co/cJlKbMnqpn" class="link">pic.twitter.com/cJlKbMnqpn</a>
+                            <div class="date">09:14:39 on 2 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             Just went from chaotic evil to neutral good 🤣
                             <a href="https://t.co/gV37i8YduC" class="link">twitter.com/LinusTech/stat…</a>
                             <div class="date">07:47:04 on 2 Jun 2022</div>
@@ -462,12 +469,6 @@
                             Good thing I'm only level 10...now .... Which class should I choose for my second character?
                             <span class="hashtag">#DiabloImmortal</span>
                             <div class="date">23:40:22 on 1 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Just learned the hard way that your characters are locked to the server you choose in
-                            <span class="mention">@DiabloImmortal</span>
-                            so if your trying to play together make sure you make characters on the same server 😥
-                            <div class="date">23:39:18 on 1 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1612,7 +1613,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jun 2022, 08:08:33 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 2 Jun 2022, 09:20:44 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
