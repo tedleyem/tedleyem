@@ -60,7 +60,7 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_API_TOKEN }}
 
           # The rss plugin displays feed from my blog
-          plugin_rss: yes
+          plugin_rss: no
           plugin_rss_source: https://meralus.com/feed.xml
           plugin_rss_limit: 6
           
