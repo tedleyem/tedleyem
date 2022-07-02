@@ -8,8 +8,7 @@
 
 #### Social and Gaming
 ![Twitter](https://img.shields.io/badge/@techgameteddy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-#![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-#![Steam](https://img.shields.io/badge/techgameteddy-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
+![Steam](https://img.shields.io/badge/techgameteddy-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 
 <!-- 
 Find more Logos here 
