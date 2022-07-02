@@ -8,6 +8,7 @@
 
 #### Social and Gaming
 ![Twitter](https://img.shields.io/badge/@techgameteddy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
 ![Steam](https://img.shields.io/badge/techgameteddy-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 
 <!-- 
