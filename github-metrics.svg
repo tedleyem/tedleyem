@@ -239,14 +239,14 @@ Girl Dad, Linux Engineer, Writer, Twin ✌🏿</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.90562768036747" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="189.90562768036747" y="0" width="114.95332556971866" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="304.85895325008613" y="0" width="104.83405627631298" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="409.6930095263991" y="0" width="16.10390218165162" height="8" fill="#da291c"/>
-                    <rect mask="url(#languages-bar)" x="425.79691170805074" y="0" width="10.263344290467442" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.0602559985182" y="0" width="9.290896103047803" height="8" fill="#71b417"/>
-                    <rect mask="url(#languages-bar)" x="445.35115210156596" y="0" width="8.243985520101079" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="453.59513762166705" y="0" width="6.4048623783329734" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.90563034284196" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="189.90563034284196" y="0" width="114.95332718136284" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="304.8589575242048" y="0" width="104.83405774608512" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="409.6930152702899" y="0" width="16.103902407428127" height="8" fill="#da291c"/>
+                    <rect mask="url(#languages-bar)" x="425.79691767771806" y="0" width="10.26333798516517" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.0602556628832" y="0" width="9.29089623330605" height="8" fill="#71b417"/>
+                    <rect mask="url(#languages-bar)" x="445.35115189618926" y="0" width="8.243985635681653" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="453.59513753187093" y="0" width="6.404862468129063" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -419,7 +419,7 @@ Girl Dad, Linux Engineer, Writer, Twin ✌🏿</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Sept 2022, 12:06:39 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 6 Sept 2022, 13:11:11 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
