@@ -1,13 +1,25 @@
 
 <!--[![Header](https://github.com/tmeralus/tmeralus/blob/main/tedley-cartoon-animation-banner.gif)](https://www.meralus.com)
 -->
-# Tedley Meralus 
-### Knowledge is Freedom, Ignorance is Slavery 
-I am a Father, Linux Engineer, and software junkie who enjoys development, gaming, programming, and learning how things work.
+# Hi, i'm Tedley Meralus 
+### Father, Linux Engineer, and programmer
+    🌍  I'm based in West Palm Beach, Florida
+    🖥️  See my portfolio at meralus.com
+    ✉️  You can contact me at tmeralus@protonmail.com
+    🚀  I'm currently working on a few Twtitter bots, ielectrosolutions.com, and Devops Projects
+    🧠  I'm learning ReactJS
+    🤝  I'm open to collaborating on projects as a backend developer, programmer, or consultant. 
 
-#### Contact Me 
-![Twitter](https://img.shields.io/badge/@techdadteddy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+### Quotes that inspire me 
+#### Learning never exhausts the mind
+#### Knowledge is Freedom, Ignorance is Slavery 
+#### The ability to learn, the means of learning, the tools of learning, are abundant and infinite. It's the desire that's incredibly scarce.
+
+
+
+<a href="https://www.twitter.com/techdadteddy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/techdadteddy?logo=twitter&style=for-the-badge&color=3382ed&labelColor=22272e"
+/></a>
 
 #### Languages
 ![BASH](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -34,12 +46,20 @@ I am a Father, Linux Engineer, and software junkie who enjoys development, gamin
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 
-#### Gaming
+#### Social and Gaming
 ![Steam](https://img.shields.io/badge/techdadteddy-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
+![Twitter](https://img.shields.io/badge/@techdadteddy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 
+
+
+
+### Support Me
+<a href="https://www.buymeacoffee.com/tmeralus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+ 
 
 ![Metrics](/github-metrics.svg)
-
+ 
 <!-- 
 # Github Metrics
 ![Metrics](/github-metrics.svg)
