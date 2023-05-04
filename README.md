@@ -5,10 +5,9 @@
 ### Knowledge is Freedom, Ignorance is Slavery 
 I am a Father, Linux Engineer, and software junkie who enjoys development, gaming, programming, and learning how things work.
 
-#### Contact Me
-![Twitter](https://img.shields.io/badge/@techdadteddy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-[Metrics](/github-metrics.svg)
+#### Contact Me 
+![Twitter](https://img.shields.io/badge/@techdadteddy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 #### Languages
 ![BASH](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -35,10 +34,12 @@ I am a Father, Linux Engineer, and software junkie who enjoys development, gamin
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 
-#### Social and Gaming
-![Twitter](https://img.shields.io/badge/@techgameteddy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-![Steam](https://img.shields.io/badge/techgameteddy-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
+#### Gaming
+![Steam](https://img.shields.io/badge/techdadteddy-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
+
+
+![Metrics](/github-metrics.svg)
+
 <!-- 
 # Github Metrics
 ![Metrics](/github-metrics.svg)
