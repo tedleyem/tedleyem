@@ -4,9 +4,9 @@
 # Hi, i'm Tedley Meralus 
 ### I'm a Father, Linux Engineer, and programmer
     🌍  I'm based in West Palm Beach, Florida 
-    ✉️  You can contact me at tmeralus@protonmail.com
+    ✉️  You can contact me on Twitter @techdadteddy
     🧠  I'm learning Flask
-    🚀  I'm currently working on a few Twtitter bots, ielectrosolutions.com, and Devops Projects
+    🚀  I'm currently working on Flask & Devops Projects
     🤝  I'm open to collaborating on projects as a backend developer, programmer, or consultant. 
     
     Quotes that inspire me:
