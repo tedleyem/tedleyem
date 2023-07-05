@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: tmeralus
+          user: techdadteddy
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
@@ -54,12 +54,7 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, review, ref/create
 
-          plugin_tweets: no
-          plugin_tweets_limit: 3
-          plugin_tweets_user: techgameteddy
-          plugin_tweets_token: ${{ secrets.TWITTER_API_TOKEN }}
-
-          # The rss plugin displays feed from my blog
+        # The rss plugin displays feed from my blog
           plugin_rss: no
           plugin_rss_source: https://meralus.com/feed.xml
           plugin_rss_limit: 6
