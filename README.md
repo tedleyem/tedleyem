@@ -4,10 +4,9 @@
 # Hi, i'm Tedley Meralus 
 ### I'm a Father, Linux Engineer, and programmer
     🌍  I'm based in West Palm Beach, Florida 
-    ✉️  You can contact me on Twitter @techdadteddy
+    ✉️  You can contact me on most social platforms @techdadteddy
     🧠  I'm learning Flask
-    🚀  I'm currently working on Flask & Devops Projects
-    🤝  I'm open to collaborating on projects as a backend developer, programmer, or consultant. 
+    🚀  I'm currently working on Flask & Devops Projects 
     
     Quotes that inspire me:
     - Knowledge is Freedom, Ignorance is Slavery 
@@ -15,12 +14,7 @@
     - The ability to learn, the means to learn, and tools of learning, 
         are abundant and infinite. It's the desire that's incredibly scarce.
  
-</br >
-
-
-<a href="https://www.twitter.com/techdadteddy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/techdadteddy?logo=twitter&style=for-the-badge&color=3382ed&labelColor=22272e"
-/></a>
+</br > 
 
 #### Languages & Technology
 ![BASH](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -46,15 +40,8 @@ src="https://img.shields.io/twitter/follow/techdadteddy?logo=twitter&style=for-t
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 
 #### Gaming
-
 ![Steam](https://img.shields.io/badge/techdadteddy-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)   
 
- 
-![Metrics](/github-metrics.svg)
-
- ### Support Me
-<a href="https://www.buymeacoffee.com/tmeralus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
- 
 <!-- 
 # Github Metrics
 ![Metrics](/github-metrics.svg)
