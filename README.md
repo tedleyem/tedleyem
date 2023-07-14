@@ -1,13 +1,6 @@
 
 <!--[![Header](https://github.com/tmeralus/tmeralus/blob/main/tedley-cartoon-animation-banner.gif)](https://www.meralus.com)
--->
-# Hi, i'm Tedley Meralus 
-### I'm a Father, Linux Engineer, and programmer
-    🌍  I'm based in West Palm Beach, Florida 
-    ✉️  You can contact me on most social platforms @techdadteddy
-    🧠  I'm learning Flask
-    🚀  I'm currently working on Flask & Devops Projects 
-    
+--> 
     Quotes that inspire me:
     - Knowledge is Freedom, Ignorance is Slavery 
     - Learning never exhausts the mind
