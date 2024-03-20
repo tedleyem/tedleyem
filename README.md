@@ -1,8 +1,6 @@
-You found me! I'm a father, husband, Linux geek, lover of containers, miami heat fan, and love of open source. I spend most of my time changing my daughters diapers and developing fun things with python, docker, and popular DevOps Tools. My profile is a mess of my thoughts, ideas, and projects. One day someone will find the things im working on useful, if thats you today, then enjoy!
-
 <!--  I try to blog at [blog.meralus.com](https://blog.meralus.com) -->
  
-<a rel="me" href="https://twitter.com/techdadteddy">Twitter</a>
+<a rel="me" href="https://twitter.com/techdadteddy">Chat on Twitter</a>
 
 <!-- 
 Here are some ideas to get you started:
