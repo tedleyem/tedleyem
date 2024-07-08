@@ -3,8 +3,8 @@
 * <a rel="me" href="https://meralus.com">My blog .. when I feel like writing</a> 
  
 Quotes that inspire me:
- - Knowledge is Freedom, Ignorance is Slavery - "attributed to Miles Davis"
- - Learning never exhausts the mind  "attributed to Leonardo da Vinci" 
+ - Knowledge is Freedom, Ignorance is Slavery ~ Miles Davis 
+ - Learning never exhausts the mind  ~ Leonardo da Vinci 
  - The tools for learning are abundant. It’s the desire to learn that’s scarce.
  - This is such a short and precious life that it’s really important that you don’t spend it being unhappy.
  - You make your own luck if you stay at it long enough.
