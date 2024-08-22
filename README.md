@@ -1,7 +1,11 @@
 ## Learning never exhausts the mind
 ---
-* <a rel="me" href="https://meralus.com">My blog .. when I feel like writing</a> 
- 
+I am a software engineer from Florida with a focus on Linux and Open Source software. My current technical focus is on C programmging and kernel/embedded development. 
+
+Professionally, I like to deal with backend software development, DevOps, the design of system architectures, and the transfer of technical knowledge. I have a strong knowledge of how modern computer systems work and how they don’t work. I have deep extensive Linux knowledge, a strong understanding of Computer Science concepts, and sound knowledge of bringing DevOps and Cloud practices to life.
+
+* <a rel="me" href="https://meralus.com">This is my blog ... when I have time to write.</a> 
+
 Quotes that inspire me:
  - Knowledge is Freedom, Ignorance is Slavery ~ Miles Davis 
  - Learning never exhausts the mind  ~ Leonardo da Vinci 
