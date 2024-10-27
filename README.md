@@ -1,6 +1,6 @@
 ## Learning never exhausts the mind
 ---
-I am a software engineer from Florida with a focus on Linux and Open Source software. My current technical focus is on C programmging and kernel/embedded development. 
+I am a software engineer from Florida with a focus on Linux and Open Source software. My current technical focus is on C programming and kernel/embedded development. 
 
 Professionally, I like to deal with backend software development, DevOps, the design of system architectures, and the transfer of technical knowledge. I have a strong knowledge of how modern computer systems work and how they don’t work. I have deep extensive Linux knowledge, a strong understanding of Computer Science concepts, and sound knowledge of bringing DevOps and Cloud practices to life.
 
