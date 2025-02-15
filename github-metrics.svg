@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ Girl Dad, Linux Engineer, Twin ✌🏿</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            347 Commits
+                            349 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ Girl Dad, Linux Engineer, Twin ✌🏿</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.20m added, 7.08m removed
+                                    519k added, 22.5k removed
                                 </div>
                             </section>
                             <section>
@@ -239,14 +239,14 @@ Girl Dad, Linux Engineer, Twin ✌🏿</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.8941958038556" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="398.8941958038556" y="0" width="27.52039361356059" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="426.4145894174162" y="0" width="16.74279309334162" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.15738251075777" y="0" width="4.362214198749884" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="447.51959670950765" y="0" width="3.697168406965311" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.21676511647297" y="0" width="3.411432167443131" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="454.6281972839161" y="0" width="2.722693998742066" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="457.35089128265815" y="0" width="2.6491087173418237" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.924541066585" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="398.924541066585" y="0" width="27.506726931882692" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="426.4312679984677" y="0" width="16.73447858931168" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="443.1657465877794" y="0" width="4.360047914586138" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="447.5257945023655" y="0" width="3.6953323858517657" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.22112688821727" y="0" width="3.4097380435089732" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="454.63086493172625" y="0" width="2.721341903539155" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="457.35220683526546" y="0" width="2.647793164734603" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -413,7 +413,7 @@ Girl Dad, Linux Engineer, Twin ✌🏿</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Feb 2025, 10:07:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2025, 11:06:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
