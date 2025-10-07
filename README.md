@@ -1,12 +1,12 @@
 ## Learning never exhausts the mind
 ---
-Hey, it's me, Tedley. I'm a sysadmin turned software engineer with a focus on Linux and Open Source software. My current technical focus is on C programming and kernel/embedded development but I spend alot of time with automation, Devops, Cloud computing, and Infrastructure based projects. 
+Hey, it's me, Tedley. I'm a sysadmin turned software engineer with a focus on Linux and Automation. My current technical focus is on C programming and kernel/system development.
 
 Professionally, I like to deal with backend software development, systems automation, the design of system architectures, and the transfer of technical knowledge. I have deep extensive Linux knowledge, a strong understanding of DevOps, Container, and Cloud development.
 
-* Here is a link to [my blog](https://ted.meralus.com) where I write random technical stuff so I can find it in the future. I have found that popular blogs have been moving content behind paywalls so my blog is an attempt to collect the knowledge I have and share it without the idea of a paywall or restrictions. My version of keeping true to the quote "Knowledge, like air, is vital to life. Like air, no one should be denied it."
+* Here is a link to [my blog](https://ted.meralus.com/blog/) where I write random technical stuff so I can find it in the future. I have found that popular blogs have been moving content behind paywalls so my blog is an attempt to collect the knowledge I've gained over the years and share it without the idea of a paywall or restrictions. My version of keeping true to the quote "Knowledge, like air, is vital to life. Like air, no one should be denied it."
 
-* I have also moved a lot of my other projects to [Gitlab](https://gitlab.com/tedleyem). I use this github to host more static and structural projects. The activity and commits may not be as heavy as the once were moving forward but only time will tell.
+I use this github to host more static and structural projects. The activity and commits may not be as heavy as the once were moving forward but only time will tell.
 
 Quotes that inspire me:
  - Knowledge is Freedom, Ignorance is Slavery ~ Miles Davis 
