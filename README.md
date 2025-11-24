@@ -1,20 +1,14 @@
 ## Learning never exhausts the mind
 ---
-Hey, it's me, Tedley. I'm a sysadmin turned software engineer with a focus on Linux and Automation. My current technical focus is on C programming and kernel/system development.
-
-Professionally, I like to deal with backend software development, systems automation, the design of system architectures, and the transfer of technical knowledge. I have deep extensive Linux knowledge, a strong understanding of DevOps, Container, and Cloud development.
-
-* Here is a link to [my blog](https://ted.meralus.com/blog/) where I write random technical stuff so I can find it in the future. I have found that popular blogs have been moving content behind paywalls so my blog is an attempt to collect the knowledge I've gained over the years and share it without the idea of a paywall or restrictions. My version of keeping true to the quote "Knowledge, like air, is vital to life. Like air, no one should be denied it."
-
-I use this github to host more static and structural projects. The activity and commits may not be as heavy as the once were moving forward but only time will tell.
-
-Quotes that inspire me:
- - Knowledge is Freedom, Ignorance is Slavery ~ Miles Davis 
- - Learning never exhausts the mind  ~ Leonardo da Vinci 
- - “Even today, what to study and how to study it are more important than where to study it and for how long. The best teachers are on the Internet. The best books are on the Internet. The best peers are on the Internet. The tools for learning are abundant. It’s the desire to learn that’s scarce.” - Naval Ravikan
+Hey, it's me, Tedley (ted-lee)
+- 🔭 I’m currently working on kernel/system development.
+- 🌱 I’m currently learning C
+- 👯 I’m looking to collaborate on Ansible, Docker, and Linux Automation
+- 🤔 I’m looking for help with kernel development
+- 💬 Ask me about Linux
+- 📫 How to reach me: mail@meralus.com 
+- ⚡ Fun fact: Learning never exhausts the mind  ~ Leonardo da Vinci
  
-
-   
 #### Languages & Technology
 ![BASH](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-Programming%20Language-brightgreen)
@@ -52,18 +46,7 @@ Quotes that inspire me:
 
 <!--
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
--->
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+--> 
 
 <!-- 
 # Github Metrics
