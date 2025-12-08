@@ -1,6 +1,7 @@
 ## Learning never exhausts the mind
 ---
 Hey, it's me, Tedley (ted-lee)
+- I'm a Linux Systems Engineer
 - 🔭 I’m currently working on kernel/system development.
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on Ansible, Docker, and Linux Automation
@@ -8,7 +9,19 @@ Hey, it's me, Tedley (ted-lee)
 - 💬 Ask me about Linux
 - 📫 How to reach me: mail@meralus.com 
 - ⚡ Fun fact: Learning never exhausts the mind  ~ Leonardo da Vinci
- 
+<!--
+ Here is a timeline of some projects Ive worked on in different jobs. As time goes by I try to recreate 
+ the magic I helped build. These projects can be seen as a bit of a portfolio of the work I've done.
+- 2018 - [Nagios]() 
+- 2019 - [wazuh docker]()
+- 2020 - [python nba web scraper]()   
+- 2021 - [postgres db ansible]()
+- 2022 - [terraform - grafana aws-ecs]() 
+- 2023 - [packer ami build - wordpress]()
+- 2024 - [Atlassian stack / AAP]()
+- 2025 - [docker image sync]()
+- 2026 - kernel yocto build LETTY OS (coming soon)
+-->
 #### Languages & Technology
 ![BASH](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-Programming%20Language-brightgreen)
