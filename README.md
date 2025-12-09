@@ -9,6 +9,9 @@ Hey, it's me, Tedley (ted-lee)
 - 💬 Ask me about Linux
 - 📫 How to reach me: mail@meralus.com 
 - ⚡ Fun fact: Learning never exhausts the mind  ~ Leonardo da Vinci
+-  Here is a timeline of some projects Ive worked on in different jobs. As time goes by I try to recreate 
+ the magic I helped build. These projects can be seen as a bit of a portfolio of the work I've done.
+- 2018 - [Nagios](https://github.com/tedleyem/docker-nagios)
 <!--
  Here is a timeline of some projects Ive worked on in different jobs. As time goes by I try to recreate 
  the magic I helped build. These projects can be seen as a bit of a portfolio of the work I've done.
