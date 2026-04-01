@@ -1,14 +1,17 @@
-## Learning never exhausts the mind
+## Knowledge is Freedom
 ---
 Hey, it's me, Tedley (ted-lee)
 - I'm a Linux Systems Engineer
+- 💬 Ask me about Linux
+- 📫 How to reach me: mail@meralus.com 
+- ⚡ Fun fact: Learning never exhausts the mind  ~ Leonardo da Vinci
+
+<!--
 - 🔭 I’m currently working on kernel/system development.
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on Ansible, Docker, and Linux Automation
 - 🤔 I’m looking for help with kernel development
-- 💬 Ask me about Linux
-- 📫 How to reach me: mail@meralus.com 
-- ⚡ Fun fact: Learning never exhausts the mind  ~ Leonardo da Vinci
+-->
 <!--
 -  Here is a timeline of some projects Ive worked on in different jobs. As time goes by I try to recreate 
  the magic I helped build. These projects can be seen as a bit of a portfolio of the work I've done.
